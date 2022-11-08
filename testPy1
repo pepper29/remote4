@@ -1,0 +1,8 @@
+# TEst py
+
+a = 100
+b = 200
+
+result = a+b
+
+print('결과를 출력:',result)
